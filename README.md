@@ -14,9 +14,9 @@ This is a simple web crawler written in PHP. The crawler can be used to retrieve
 ## Setup
 
 1. Make sure you have XAMPP installed in your system.
-2. Clone the repository: `git clone https://github.com/ahmedobaid23/WebAssignment2.git` in a folder known as htdocs inside xampp folder.
+2. Clone the repository: `git clone https://github.com/ahmedobaid23/WE_Assignment2.git` in a folder known as htdocs inside xampp folder.
 3. Open XAMPP Control Panel and start Apache module.
-4. Open your browser and type "http://localhost/WebAssignment2/index.php".
+4. Open your browser and type "http://localhost/WE_Assignment2/index.php".
 5. Press Enter.
 
 ## Functionality
